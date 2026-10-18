@@ -16,6 +16,7 @@ This student project explores data cleaning, preparation, and exploratory data a
 
 ## Tools Used
 
+- Excel
 - Python
 - pandas
 - Jupyter Notebook
